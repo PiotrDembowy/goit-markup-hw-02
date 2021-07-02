@@ -1,4 +1,4 @@
-# goit-markup-hw-02\
+# goit-markup-hw-02\ https://piotrdembowy.github.io/goit-markup-hw-02/
 
 Zadanie domowe nr 2
 
